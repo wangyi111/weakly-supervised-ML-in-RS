@@ -1,1 +1,1 @@
-# weakly-supervised-machine-learning
+# weakly-supervised-machine-learning-in-remote-sensing
