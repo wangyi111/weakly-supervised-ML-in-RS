@@ -10,8 +10,12 @@
 * Geometry-Consistent GAN: [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fu_Geometry-Consistent_Generative_Adversarial_Networks_for_One-Sided_Unsupervised_Domain_Mapping_CVPR_2019_paper.pdf)
 
 
-## Others
+## Other Related 
 
 * Adversarial Autoenoder: [paper](https://arxiv.org/abs/1511.05644)
 * VAEGAN: [paper](http://proceedings.mlr.press/v48/larsen16.pdf)
 * 
+
+## Applications
+* Cloud removal fusing sentinel-1/2: [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9211498) [dataset](https://mediatum.ub.tum.de/1554803)
+* Cloud removal fusing sentinel-1/2: [paper](https://www.sciencedirect.com/science/article/pii/S0924271620301398)
