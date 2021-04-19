@@ -18,5 +18,6 @@
 * 
 
 ## Applications
+* SAR-Optical image translation: [paper](https://www.mdpi.com/2072-4292/11/17/2067)
 * Cloud removal fusing sentinel-1/2 (CycleGAN): [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9211498) [dataset](https://mediatum.ub.tum.de/1554803)
   * Cloud removal fusing sentinel-1/2 (EDSR+cloud loss): [paper](https://www.sciencedirect.com/science/article/pii/S0924271620301398)
